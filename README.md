@@ -2,7 +2,7 @@
 AIFFEL 12기 리서치과정 프로젝트 모음
 
 ```
-AIFFEL_quest_cr
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
